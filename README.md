@@ -55,7 +55,6 @@
 ### 🟢 Node.js / Express Projects (Backend)
 - **licence-personality**
 - **SkincareDermaline**
-- **proyecto_dat**
 - **PortafolioAuditoria**
 - **ELITE**, **GloballyNet**, **CanchaDeportes**
 - **Chat-Vivo**, **Facturacion_linea**
